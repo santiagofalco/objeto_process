@@ -2,4 +2,4 @@ Dentro de la carpeta del proyecto, se encuentra realizada una coleccion de postm
 
 (Aclaración del desafio entregable 'Objeto Process': se encuentra un archivo .env.example, con ademas del puerto y la conexion de atlas, la persistencia para solo tener que cambiarla por FS, MEMORY, o MONGO
 
-Se encuentra realizado tambien la tercer consigna, de child process)
+Se encuentra realizado tambien la tercer consigna, de child process, con yargs (-q para pasarle la cantidad de numeros a calcular))
